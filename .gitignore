@@ -1,5 +1,5 @@
 /public
 resources/
-node_modules/hugo_extended/vendor/hugo
+node_modules/hugo-extended/vendor/hugo
 package-lock.json
 .hugo_build.lock
